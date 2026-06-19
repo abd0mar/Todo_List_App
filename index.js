@@ -10,7 +10,6 @@ let tabsBtns = document.querySelector(".actions");
 //Tasks Sections
 let sectionBtns = document.querySelectorAll(".actions > button");
 let tasksListSection = document.querySelector(".list");
-// console.log(datase)
 
 //===========================================================================
 let tasks = [];
@@ -175,5 +174,3 @@ tabsBtns.addEventListener("click", function(e){
 
 
 
-
-console.log("fine")
